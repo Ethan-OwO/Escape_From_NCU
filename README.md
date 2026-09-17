@@ -44,8 +44,8 @@
 ## 開發者模式執行（需要 Java 17 + Maven）
 
 ```bash
-git clone https://github.com/Ethan-OwO/Dark-Haunted-House.git
-cd Dark-Haunted-House
+git clone https://github.com/Ethan-OwO/Escape_From_NCU.git
+cd Escape_From_NCU
 mvn javafx:run
 ```
 
