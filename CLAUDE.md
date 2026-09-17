@@ -2,7 +2,7 @@
 
 ## 基本資訊
 - **課程**：計算機實習，期末專題，截止約 2026-06-07
-- **GitHub**：https://github.com/Ethan-OwO/Dark-Haunted-House
+- **GitHub**：https://github.com/Ethan-OwO/Escape_From_NCU
 - **類型**：JavaFX 俯視角射擊遊戲，類似元氣騎士（Soul Knight）
 - **三人小組**，皆為 Java 初學者，用 GitHub Desktop 協作
 
